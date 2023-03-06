@@ -5,6 +5,6 @@
 项目目前主要基于Tailscale、Headscale进行建设。   
    
 - [ ] MirageSever 控制器   【进行中】   
-- [ ] MirageClient 客户端（Windows & Linux） 【第一版】   
+- [x] MirageClient 客户端（Windows & Linux） 【第二版】   
 - [ ] MirageX 客户端（macOS & iOS） 【暂未启动】   
    
