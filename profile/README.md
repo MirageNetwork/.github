@@ -5,7 +5,7 @@
 项目目前主要基于Tailscale、Headscale进行建设。   
    
 - [x] MirageSever 控制器   【初版】   
-- [x] MirageClien 客户端（Windows & Linux） 【第二版】   
+- [x] MirageClient 客户端（Windows & Linux & 司南-MirageNavi【初版】） 【第二版】   
 - [ ] MirageX 客户端（macOS & iOS） 【暂未启动】   
-- [x] MirageNavi 中继节点(并入MirageClient即客户端Repo) 【初版】   
+- [x] ~~MirageNavi 中继节点~~(已并入MirageClient 即客户端 的Repo)
    
