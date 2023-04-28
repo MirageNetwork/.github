@@ -9,6 +9,10 @@
    - [x] Windows【第二版】
    - [ ] Linux【未正式发版】 
    - [x] 司南 MirageNavi【初版】       
-- [ ] MirageX 客户端（macOS & iOS） 【暂未启动】   
+- [x] MirageX 客户端
+   - [x] iOS客户端【初版】
+   - [] macOS客户端【暂未启动】
+- [ ] MirageN 客户端
+   - [] Android客户端【暂未启动】
 - [x] ~~MirageNavi 中继节点~~(已并入MirageClient 即客户端 的Repo)
    
