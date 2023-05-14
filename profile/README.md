@@ -4,15 +4,18 @@
 我们致力于基于开源的先进技术成果，打造便捷、灵活、安全、易用的跨域组网方案。   
 项目目前主要基于Tailscale、Headscale进行建设。   
    
-- [x] MirageSever 控制器   【初版】   
-- [x] MirageClient 客户端
-   - [x] Windows【第二版】
-   - [ ] Linux【未正式发版】 
-   - [x] 司南 MirageNavi【初版】       
-- [x] MirageX 客户端
-   - [x] iOS客户端【初版】
-   - [ ] macOS客户端【暂未启动】
-- [ ] MirageN 客户端
-   - [ ] Android客户端【暂未启动】
-- [x] ~~MirageNavi 中继节点~~(已并入MirageClient 即客户端 的Repo)
+- [x] 服务端
+   - [x] 控制器 -- MirageSever 【初版】   
+   - [ ] 日志器 -- MirageLog 【暂未启动】 
+- [x] 客户端
+   - [x] Windows客户端      --  MirageWin   【第二版】   
+   - [x] Linux客户端  --     MirageClient  【初版】    
+           
+   - [x] Apple客户端       --     MirageX
+     - [x] iOS客户端【初版】    
+     - [ ] macOS客户端【暂未启动】   
+   - [ ] Android客户端       --   MirageN  【暂未启动】   
+   - [x] 群晖版         -- MirageSyno     【初版】
+   - [x] 司南（DERP）    -- MirageNavi     【初版】 
+
    
