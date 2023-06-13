@@ -14,7 +14,7 @@
    - [x] Apple客户端       --     MirageX
      - [x] iOS客户端【初版】    
      - [ ] macOS客户端【暂未启动】   
-   - [ ] Android客户端       --   MirageN  【暂未启动】   
+   - [x] Android客户端       --   MirageNG  【初版进行中】   
    - [x] 群晖版         -- MirageSyno     【初版】
    - [x] 司南（DERP）    -- MirageNavi     【初版】 
 
