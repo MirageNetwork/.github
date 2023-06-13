@@ -5,7 +5,7 @@
 项目目前主要基于Tailscale、Headscale进行建设。   
    
 - [x] 服务端
-   - [x] 控制器 -- MirageSever 【初版】   
+   - [x] 控制器 -- MirageSever 【第二版进行中】   
    - [ ] 日志器 -- MirageLog 【暂未启动】 
 - [x] 客户端
    - [x] Windows客户端      --  MirageWin   【第二版】   
